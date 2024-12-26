@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BMIcalc_csharp/1.0.0": {
+        "runtime": {
+          "BMIcalc_csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BMIcalc_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

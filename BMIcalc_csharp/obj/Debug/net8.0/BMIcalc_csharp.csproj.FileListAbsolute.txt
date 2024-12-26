@@ -1,0 +1,15 @@
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\bin\Debug\net8.0\BMIcalc_csharp.exe
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\bin\Debug\net8.0\BMIcalc_csharp.deps.json
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\bin\Debug\net8.0\BMIcalc_csharp.runtimeconfig.json
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\bin\Debug\net8.0\BMIcalc_csharp.dll
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\bin\Debug\net8.0\BMIcalc_csharp.pdb
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\BMIcalc_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\BMIcalc_csharp.AssemblyInfoInputs.cache
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\BMIcalc_csharp.AssemblyInfo.cs
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\BMIcalc_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\BMIcalc_csharp.sourcelink.json
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\BMIcalc_csharp.dll
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\refint\BMIcalc_csharp.dll
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\BMIcalc_csharp.pdb
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\BMIcalc_csharp.genruntimeconfig.cache
+C:\Users\Benjamin\VSCodeProjects\project\BMIcalc_csharp\obj\Debug\net8.0\ref\BMIcalc_csharp.dll
